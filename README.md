@@ -2,6 +2,8 @@
 
 Daniweb.edu project is a daniweb front-end website with LMS and education concept. Designed and created in Bootstrap, HTML, Javascript, CSS and Jquery. Its a frontend design perfect for learning-based companies enhanced with user-enhanced and user-interfaced feature capabilities.
 
+https://user-images.githubusercontent.com/109225953/205444868-894ed4b4-498a-447d-b4a0-05adcd2fdacc.mp4
+
 ---
 
 **Installation**
