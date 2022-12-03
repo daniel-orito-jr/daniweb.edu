@@ -3,7 +3,7 @@
     <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
       <h1>Learning Today,<br>Leading Tomorrow</h1>
       <h2>We are team of talented designers making websites.</h2>
-      <a href="courses.html'); ?>" class="btn-get-started">Get Started</a>
+      <a href="<?= base_url('courses'); ?>" class="btn-get-started">Get Started</a>
     </div>
   </section><!-- End Hero -->
 
@@ -82,7 +82,7 @@
                 Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
               </p>
               <div class="text-center">
-                <a href="<?= base_url('frontend/about'); ?>" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
+                <a href="<?= base_url('about'); ?>" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
               </div>
             </div>
           </div>
@@ -220,7 +220,7 @@
                   <p class="price">$169</p>
                 </div>
 
-                <h3><a href="<?= base_url('frontend/course-details'); ?>">Website Design</a></h3>
+                <h3><a href="<?= base_url('course_details'); ?>">Website Design</a></h3>
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
@@ -246,7 +246,7 @@
                   <p class="price">$250</p>
                 </div>
 
-                <h3><a href="<?= base_url('frontend/course-details'); ?>">Search Engine Optimization</a></h3>
+                <h3><a href="<?= base_url('course_details'); ?>">Search Engine Optimization</a></h3>
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
@@ -272,7 +272,7 @@
                   <p class="price">$180</p>
                 </div>
 
-                <h3><a href="<?= base_url('frontend/course-details'); ?>">Copywriting</a></h3>
+                <h3><a href="<?= base_url('course_details'); ?>">Copywriting</a></h3>
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
